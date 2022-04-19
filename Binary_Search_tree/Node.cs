@@ -11,7 +11,7 @@ namespace BinaryTreeDataStructure
         public T data; // data variable
         public Node<T> left; // declaring a left node
         public Node<T> right; // declaring a right node
-        public Node(T data) // Cratinf constructor havind node data as parameter
+        public Node(T data) // Creating constructor having node data as parameter
         {
             this.data = data;
         }
